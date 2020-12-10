@@ -1,0 +1,7 @@
+com\springboot\auctionservice\service\AuctionService.class
+com\springboot\auctionservice\model\Auction.class
+com\springboot\auctionservice\repository\AuctionRepository.class
+com\springboot\auctionservice\controller\AuctionController.class
+com\springboot\auctionservice\service\AuctionServiceImpl.class
+com\springboot\auctionservice\AuctionApplication.class
+com\springboot\auctionservice\exception\Exceptions.class
